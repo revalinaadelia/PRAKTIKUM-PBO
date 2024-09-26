@@ -4,7 +4,7 @@ class Binatang {
     public Binatang(String nama) {
         this.nama = nama;
     }
-A
+
     public void bersuara() {
         System.out.println("Mbeek!");
     }
